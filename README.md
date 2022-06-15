@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://byronpolley.com" target="_blank">
+    <img width="50em" height="50em" src="https://byronpolley.com/avatar.png">
+  </a>
+</p
 
-<!--
-**b-bot/b-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi Friend ♡ , I'm Byron Polley.</h2>
 
-Here are some ideas to get you started:
+Multidisciplinary full stack engineer with a focus on software architecture, cloud infrastructure, accessibility and user experience. Music producer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;Frontend:&nbsp;
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js) -->
