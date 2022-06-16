@@ -6,7 +6,7 @@
 
 <h2> Hi Friend ♡</h2>
 
-My name is Byron Polley - a multidisciplinary full stack engineer with a focus on software architecture, cloud infrastructure, accessibility and user experience. Music producer.
+My name is Byron Polley - a multidisciplinary full stack engineer with a focus on software architecture, cloud infrastructure, accessibility and user experience. I also produce electronic music.
 
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3>
 
