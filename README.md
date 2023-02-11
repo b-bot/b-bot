@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://byronpolley.com" target="_blank">
-    <img width="50em" height="50em" src="https://byronpolley.com/avatar.png">
+    <img width="50em" height="50em" src="https://byronpolley.com/seo/android-chrome-512x512.png">
   </a>
 </p
 
