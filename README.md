@@ -10,6 +10,6 @@ My name is Byron Polley - a multidisciplinary full stack engineer with a focus o
 
 <p align="center">
   <a href="https://byronpolley.com" target="_blank">
-    <img width="100%" height="auto" src="https://cd.byronpolley.com/assets/octopus.png">>
+    <img width="100%" height="auto" src="https://cd.byronpolley.com/assets/octopus.png">
   </a>
 </p
