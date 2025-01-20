@@ -1,6 +1,6 @@
 <table align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:600px;">
   <tr>
-    <td align="center" valign="middle" style="padding:10px 0;">
+    <td align="center" valign="middle">
     <img    
       width="400px"
       height="auto"
