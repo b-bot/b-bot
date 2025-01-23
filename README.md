@@ -2,6 +2,6 @@
   <img
     src="https://cdn.byronpolley.com/octopus.svg"
     alt="Octopus"
-    width="400"
+    width="300"
   />
 </p>
