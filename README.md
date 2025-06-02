@@ -18,14 +18,18 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/b-bot/chain">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=chain" />
-      </a>
+       <div style="padding-top: 16px;">
+        <a href="https://github.com/b-bot/chain">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=chain" />
+        </a>
+       </div> 
     </td>
     <td>
+    <div style="padding-top: 16px;">
       <a href="https://github.com/b-bot/aws-email">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=aws-email" />
       </a>
+      </div> 
     </td>
   </tr>
 </table>
