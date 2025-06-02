@@ -18,6 +18,7 @@
 <table>
   <tr>
     <td>
+       <div style="line-height:6px;">&nbsp;</div>
         <a href="https://github.com/b-bot/chain">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=chain" />
         </a>
