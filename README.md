@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>
-       <div style="padding-top: 16px;">
+       <div style="padding-top: 100px;">
         <a href="https://github.com/b-bot/chain">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=chain" />
         </a>
