@@ -1,9 +1,10 @@
-# b-bot
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/b_b0t)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/b-b0t)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b_b0t)
-[![ENS](https://img.shields.io/badge/ENS-Profile-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.ens.domains/name/b-bot.eth)
-[![PSN](https://img.shields.io/badge/PSN-Profile-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/b-bot-v2)
+## Connect
+
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&color=4A4A4A)](https://x.com/b_b0t)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=4A4A4A)](https://www.youtube.com/channel/b-b0t)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=4A4A4A)](https://www.instagram.com/b_b0t)&nbsp;
+[![ENS](https://img.shields.io/badge/ENS-Profile-0080BC?style=for-the-badge&logo=ethereum&logoColor=white&color=4A4A4A)](https://app.ens.domains/name/b-bot.eth)&nbsp;
+[![PSN](https://img.shields.io/badge/PSN-Profile-003791?style=for-the-badge&logo=playstation&logoColor=white&color=4A4A4A)](https://psnprofiles.com/b-bot-v2)
 
 ## Building
 
