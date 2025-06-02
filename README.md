@@ -18,7 +18,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/1x6" alt="" style="display:block" />
         <a href="https://github.com/b-bot/chain">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=chain" />
         </a>
