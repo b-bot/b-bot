@@ -16,7 +16,8 @@
 🟣 [Polyphonic](https://polyphonic.io/?ref=github) - Stealth music startup
 
 ## Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
 <p align="center">
   <img
