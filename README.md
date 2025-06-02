@@ -16,7 +16,14 @@
 🟣 [Polyphonic](https://polyphonic.io/?ref=github) - Stealth music startup
 
 ### Projects
-[![Chain](https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=chain)](https://github.com/b-bot/chain)
+<a href="https://github.com/b-bot/chain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=chain" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/b-bot/aws-email">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=aws-email" />
+</a>
+
 
 <p align="center">
   <img
