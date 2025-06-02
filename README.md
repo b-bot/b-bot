@@ -8,9 +8,11 @@
 
 ## Building
 
-💠 [polylink](https://poly.link) - Digital Monetization Engine for selling digital goods and services, accepting tips and dontation and paywalling premium content.
+💠 [polylink](https://poly.link/?ref=github) - Digital Monetization Engine for selling digital goods and services, accepting tips and dontation and paywalling premium content.
 
-🔶 [MonoKit](https://monokit.dev) - Build production-ready apps faster with the ultimate Turborepo toolkit. Includes MCP Servers and LLM-Friendly Codebase.
+🔶 [MonoKit](https://monokit.dev/?ref=github) - Build production-ready apps faster with the ultimate Turborepo toolkit. Includes MCP Servers and LLM-Friendly Codebase.
+
+🟣 [Polyphonic](https://polyphonic.io/?ref=github) - Stealth music startup
 
 <p align="center">
   <img
