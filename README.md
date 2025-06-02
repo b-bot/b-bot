@@ -6,7 +6,6 @@
 [![PSN](https://img.shields.io/badge/PSN-b--bot--v2-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/b-bot-v2)&nbsp;
 [![ENS](https://img.shields.io/badge/ENS-b--bot%2Eeth-0080BC?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.ens.domains/name/b-bot.eth)
 
-
 ## Building
 
 💠 [polylink](https://poly.link/?ref=github) - Digital Monetization Engine for selling digital goods and services, accepting tips and dontation and paywalling premium content.
@@ -15,7 +14,8 @@
 
 🟣 [Polyphonic](https://polyphonic.io/?ref=github) - Stealth music startup
 
-### Projects
+### Recent Projects
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
 <a href="https://github.com/b-bot/chain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=chain" />
 </a>
@@ -23,6 +23,7 @@
 <a href="https://github.com/b-bot/aws-email">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=aws-email" />
 </a>
+</div>
 
 
 <p align="center">
