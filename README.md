@@ -15,16 +15,16 @@
 🟣 [Polyphonic](https://polyphonic.io/?ref=github) - Stealth music startup
 
 ### Recent Projects
-<div style="display: flex; gap: 20px; margin-bottom: 100px;">
+<div style="display: flex; gap: 20px;">
 <a href="https://github.com/b-bot/chain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=chain" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/b-bot/aws-email">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b-bot&repo=aws-email" />
 </a>
 </div>
 
+<br><br>
 
 <p align="center">
   <img
