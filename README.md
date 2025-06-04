@@ -8,7 +8,7 @@
 
 ## Building
 
-💠 [polylink](https://poly.link/?ref=github) - Digital Monetization Engine for selling digital goods and services, accepting tips and dontation and paywalling premium content.
+💠 [polylink](https://poly.link/?ref=github) - The digital monetization engine creating payments workflows that are only possible with decentalized, programmable finance.
 
 🔶 [MonoKit](https://monokit.dev/?ref=github) - Build production-ready apps faster with the ultimate Turborepo toolkit. Includes MCP Servers and LLM-Friendly Codebase.
 
