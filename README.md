@@ -7,11 +7,11 @@
 
 ## Building
 
+🟣 [Polyphonic](https://polyphonic.io/?ref=github) - Music Licensing in the Age of AI
+
 🔗 [polylink](https://poly.link/?ref=github) - Unify your decentralized identity with the best way to manage your web3 profile. Sell products, promote your brand and grow your onchain community presence.
 
 🔶 [MonoKit](https://monokit.dev/?ref=github) - Build production-ready apps faster with the ultimate Turborepo toolkit. Includes MCP Servers and LLM-Friendly Codebase.
-
-🟣 [Polyphonic](https://polyphonic.io/?ref=github) - Music Licensing in the Age of AI
 
 <br><br>
 
