@@ -7,7 +7,7 @@
 
 ## Building
 
-⚕️ [Hypo Health](https://hypo.health/?ref=github) - The human operating system.
+⚕️ [Hypo Health](https://hypo.health/?ref=github) - HealthOS
 
 🔗 [polylink](https://poly.link/?ref=github) - Unify your decentralized identity with the best way to manage your web3 profile. Sell products, promote your brand and grow your onchain community presence.
 
