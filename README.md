@@ -5,7 +5,7 @@
 [![X](https://img.shields.io/badge/X-b__b0t-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/b_b0t)&nbsp;
 ![ENS](https://img.shields.io/badge/ENS-b--bot%2Eeth-0080BC?style=for-the-badge&logo=ethereum&logoColor=white)
 
-## Building @ 🟣 [Polyphonic](https://polyphonic.io/?ref=github)
+### Building @ [Polyphonic](https://polyphonic.io/?ref=github)
 
 ⚕️ [Hypo Health](https://hypo.health/?ref=github) - HealthOS
 
