@@ -6,9 +6,9 @@
 
 ### Building @ [Polyphonic](https://polyphonic.io/?ref=github)
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medical%20symbol/Color/medical_symbol_color.svg" width="20" height="20" align="absmiddle"> **[Hypo Health](https://hypo.health/?ref=github)** - Manage your health with personalized AI Medical Memory.
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medical%20symbol/Color/medical_symbol_color.svg" width="20" height="20" align="absmiddle"> **[Hypo](https://hypo.health/?ref=github)** - Manage your health with personalized AI Medical Memory.
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/Color/clapper_board_color.svg" width="20" height="20" align="absmiddle"> **[Stackarr](https://hub.docker.com/r/polyphonic/stackarr)** - All-in-one home media server management system.
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/Color/clapper_board_color.svg" width="20" height="20" align="absmiddle"> **[Stackarr](https://hub.docker.com/r/polyphonic/stackarr)** - All-in-one home media server administration system.
 
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Large%20orange%20diamond/Color/large_orange_diamond_color.svg" width="20" height="20" align="absmiddle"> **[MonoKit](https://monokit.dev/?ref=github)** - Build production-ready apps faster with the ultimate, AI-friendly, Turborepo toolkit.
 
