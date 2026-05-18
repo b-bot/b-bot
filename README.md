@@ -6,13 +6,13 @@
 
 ### Building @ [Polyphonic](https://polyphonic.io/?ref=github)
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medical%20symbol/Color/medical_symbol_color.svg" width="22" height="22" alt="Medical Symbol"> [Hypo Health](https://hypo.health/?ref=github) - HealthOS
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medical%20symbol/Color/medical_symbol_color.svg" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> **[Hypo Health](https://hypo.health/?ref=github)** - HealthOS
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/Color/clapper_board_color.svg" width="22" height="22" alt="Clapper Board"> [Stackarr](https://hub.docker.com/r/polyphonic/stackarr) - All-in-one media server management system.
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/Color/clapper_board_color.svg" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> **[Stackarr](https://hub.docker.com/r/polyphonic/stackarr)** - All-in-one media server management system.
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Large%20orange%20diamond/Color/large_orange_diamond_color.svg" width="22" height="22" alt="Large Orange Diamond"> [MonoKit](https://monokit.dev/?ref=github) - Build production-ready apps faster with the ultimate Turborepo toolkit. Includes MCP Servers and LLM-Friendly Codebase.
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Large%20orange%20diamond/Color/large_orange_diamond_color.svg" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> **[MonoKit](https://monokit.dev/?ref=github)** - Build production-ready apps faster with the ultimate Turborepo toolkit. Includes MCP Servers and LLM-Friendly Codebase.
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/Color/link_color.svg" width="22" height="22" alt="Link"> [polylink](https://poly.link/?ref=github) - Sell products, promote your brand and grow your onchain community presence.
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/Color/link_color.svg" width="20" height="20" style="vertical-align: middle; margin-right: 6px;"> **[polylink](https://poly.link/?ref=github)** - Sell products, promote your brand and grow your onchain community presence.
 
 <br><br>
 
