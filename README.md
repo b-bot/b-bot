@@ -7,25 +7,13 @@
 ### Building @ [Polyphonic](https://polyphonic.io/?ref=github)
 
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medical%20symbol/Color/medical_symbol_color.svg" 
-     width="20" height="20" 
-     style="vertical-align: -0.35em; position: relative; top: 2px; margin-right: 8px;"> 
-**[Hypo Health](https://hypo.health/?ref=github)** - HealthOS
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medical%20symbol/Color/medical_symbol_color.svg" width="18" height="18" align="middle"> **[Hypo Health](https://hypo.health/?ref=github)** - HealthOS
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/Color/clapper_board_color.svg" 
-     width="20" height="20" 
-     style="vertical-align: -0.35em; position: relative; top: 2px; margin-right: 8px;"> 
-**[Stackarr](https://hub.docker.com/r/polyphonic/stackarr)** - All-in-one media server management system.
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/Color/clapper_board_color.svg" width="18" height="18" align="middle"> **[Stackarr](https://hub.docker.com/r/polyphonic/stackarr)** - All-in-one media server management system.
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Large%20orange%20diamond/Color/large_orange_diamond_color.svg" 
-     width="20" height="20" 
-     style="vertical-align: -0.35em; position: relative; top: 2px; margin-right: 8px;"> 
-**[MonoKit](https://monokit.dev/?ref=github)** - Build production-ready apps faster with the ultimate Turborepo toolkit. Includes MCP Servers and LLM-Friendly Codebase.
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Large%20orange%20diamond/Color/large_orange_diamond_color.svg" width="18" height="18" align="middle"> **[MonoKit](https://monokit.dev/?ref=github)** - Build production-ready apps faster with the ultimate Turborepo toolkit. Includes MCP Servers and LLM-Friendly Codebase.
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/Color/link_color.svg" 
-     width="20" height="20" 
-     style="vertical-align: -0.35em; position: relative; top: 2px; margin-right: 8px;"> 
-**[polylink](https://poly.link/?ref=github)** - Sell products, promote your brand and grow your onchain community presence.
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/Color/link_color.svg" width="18" height="18" align="middle"> **[polylink](https://poly.link/?ref=github)** - Sell products, promote your brand and grow your onchain community presence.
 
 <br><br>
 
