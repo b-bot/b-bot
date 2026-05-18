@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-b__b0t-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b_b0t)&nbsp;
 [![X](https://img.shields.io/badge/X-b__b0t-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/b_b0t)&nbsp;
 
-### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Purple%20circle/Color/purple_circle_color.svg" width="20" height="20" align="absmiddle"> **[Polyphonic](https://polyphonic.io/?ref=github)**
+### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Purple%20circle/Color/purple_circle_color.svg" width="22" height="22" align="absmiddle"> **[Polyphonic](https://polyphonic.io/?ref=github)**
 Building and scaling an agentic-native portfolio of independent apps as a solo engineer:
 
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medical%20symbol/Color/medical_symbol_color.svg" width="20" height="20" align="absmiddle"> **[Hypo](https://hypo.health/?ref=github)** - Manage your health with personalized AI Medical Memory.
