@@ -6,11 +6,13 @@
 
 ### Building @ [Polyphonic](https://polyphonic.io/?ref=github)
 
-⚕️ [Hypo Health](https://hypo.health/?ref=github) - HealthOS
+![Medical Symbol](https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medical%20symbol/Color/medical_symbol_color.svg) [Hypo Health](https://hypo.health/?ref=github) - HealthOS
 
-🔗 [polylink](https://poly.link/?ref=github) - Unify your decentralized identity with the best way to manage your web3 profile. Sell products, promote your brand and grow your onchain community presence.
+![Clapper Board](https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/Color/clapper_board_color.svg) [Stackarr](https://hub.docker.com/r/polyphonic/stackarr) - All-in-one media server management system.
 
-🔶 [MonoKit](https://monokit.dev/?ref=github) - Build production-ready apps faster with the ultimate Turborepo toolkit. Includes MCP Servers and LLM-Friendly Codebase.
+![Large Orange Diamond](https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Large%20orange%20diamond/Color/large_orange_diamond_color.svg) [MonoKit](https://monokit.dev/?ref=github) - Build production-ready apps faster with the ultimate Turborepo toolkit. Includes MCP Servers and LLM-Friendly Codebase.
+
+![Link](https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/Color/link_color.svg) [polylink](https://poly.link/?ref=github) - Unify your decentralized identity with the best way to manage your web3 profile. Sell products, promote your brand and grow your onchain community presence.
 
 <br><br>
 
