@@ -5,7 +5,7 @@
 [![X](https://img.shields.io/badge/X-byron__polley-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/byron_polley)&nbsp;
 
 ### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Purple%20circle/Color/purple_circle_color.svg" width="30" height="30" align="absmiddle"> **[Polyphonic](https://polyphonic.io/?ref=github)**
-Building and scaling an agentic-native portfolio of independent apps as a solo engineer:
+Building and scaling an agentic-native portfolio of independent apps:
 
 **[<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Medical%20symbol/Color/medical_symbol_color.svg" width="20" height="20" align="absmiddle"> Hypo](https://hypo.health/?ref=github)** - Manage your health with personalized AI Medical Memory.
 
