@@ -1,6 +1,6 @@
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-byronpolley.com-0A66C2?style=for-the-badge&logo=globe&logoColor=white)](https://byronpolley.com)
+[![Website](https://img.shields.io/badge/Website-byronpolley.com-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://byronpolley.com)
 [![X](https://img.shields.io/badge/X-byron__polley-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/byron_polley)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-byron.polley-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byron.polley)&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-byron.polley-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@byron.polley)&nbsp;
