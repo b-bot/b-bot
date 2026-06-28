@@ -1,8 +1,9 @@
 ## Connect
 
-[![YouTube](https://img.shields.io/badge/YouTube-byron.polley-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@byron.polley)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-byron.polley-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byron.polley)&nbsp;
+[![Website](https://img.shields.io/badge/Website-byronpolley.com-0A66C2?style=for-the-badge&logo=globe&logoColor=white)](https://byronpolley.com)
 [![X](https://img.shields.io/badge/X-byron__polley-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/byron_polley)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-byron.polley-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byron.polley)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-byron.polley-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@byron.polley)&nbsp;
 
 ### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Purple%20circle/Color/purple_circle_color.svg" width="30" height="30" align="absmiddle"> **[Polyphonic](https://polyphonic.io/?ref=github)**
 Building and scaling an agentic-native portfolio of independent apps:
